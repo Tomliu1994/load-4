@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+p {
+    color: #f3f4f6;
+}
+.header {
+    width: 720px;
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background: #5fc0cd;
+}
+.head_left {
+    width: 60px;
+    font-size: 18px;
+    text-align: center;
+}
+.head_center {
+    width: 70px;
+    font-size: 20px;
+    text-align: center;
+}
+.head_right {
+    width: 60px;
+    font-size: 18px;
+    text-align: center;
+}
